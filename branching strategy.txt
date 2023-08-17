@@ -1,0 +1,7 @@
+branching strategy:
+1.main/master branch:main/master branch is the default branch.our souce code is stored in main/mater branch.
+2.develop branch:Developers are working in the develop branch, they merge the code to the master branch.
+3.feature branch:developing the new features or client require some modificatios are done finnaly merge into the master branch.
+4.test branch:in test branch code will be testing into the test branch.code is everything is fine then we can merge into master branch.
+5.bugfix branch:while code is testing any bug is occured we can create bug fix branch.once bug is resolved then we can again we can go with test branch code will be testing everything is fine then we can merge into master branch.
+6.release branch:for evry new release we can create release branch.here also modifications,testing all the process can be done in release branch also. finally merge into the master branch.
